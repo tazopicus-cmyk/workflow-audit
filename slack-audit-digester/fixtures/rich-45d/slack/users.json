@@ -1,0 +1,32 @@
+[
+  {
+    "id": "U01",
+    "name": "maya",
+    "real_name": "Maya Chen"
+  },
+  {
+    "id": "U02",
+    "name": "jordan",
+    "real_name": "Jordan Blake"
+  },
+  {
+    "id": "U03",
+    "name": "priya",
+    "real_name": "Priya Shah"
+  },
+  {
+    "id": "U04",
+    "name": "sam",
+    "real_name": "Sam Ortiz"
+  },
+  {
+    "id": "U05",
+    "name": "alex",
+    "real_name": "Alex Nguyen"
+  },
+  {
+    "id": "U06",
+    "name": "riley",
+    "real_name": "Riley Cho"
+  }
+]

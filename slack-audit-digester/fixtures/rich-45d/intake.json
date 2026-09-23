@@ -1,0 +1,15 @@
+{
+  "name": "Maya Chen",
+  "email": "maya@northline.test",
+  "company": "Northline Outfitters",
+  "area": "customer support",
+  "channels": [
+    "support",
+    "support-escalations"
+  ],
+  "workspace": "Invite was to #support and #support-escalations only.",
+  "notes": "Wholesale VIP tickets keep slipping. Refund how-to is the loudest loop.",
+  "sku": "slack-opportunity-audit",
+  "purchased_forward_watch": false,
+  "lookback_days_requested": 45
+}

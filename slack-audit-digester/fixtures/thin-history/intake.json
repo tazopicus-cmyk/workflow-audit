@@ -1,0 +1,12 @@
+{
+  "name": "Lee Park",
+  "email": "lee@littleharbor.test",
+  "company": "Little Harbor Studio",
+  "area": "client onboarding",
+  "channels": "ops",
+  "workspace": "Free Slack, quiet workspace.",
+  "notes": "We only started using #ops last month.",
+  "sku": "slack-opportunity-audit",
+  "purchased_forward_watch": false,
+  "lookback_days_requested": 45
+}
