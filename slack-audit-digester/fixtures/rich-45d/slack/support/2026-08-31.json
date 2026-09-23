@@ -1,0 +1,16 @@
+[
+  {
+    "type": "message",
+    "user": "U06",
+    "user_name": "Riley Cho",
+    "text": "Following up on ticket 910. Any update before the buyer call?",
+    "ts": "1788172010.050000"
+  },
+  {
+    "type": "message",
+    "user": "U02",
+    "user_name": "Jordan Blake",
+    "text": "Standup: yesterday I closed 5 tickets. Today I will work the VIP queue. No blockers.",
+    "ts": "1788167111.071000"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "message",
+    "user": "U03",
+    "user_name": "Priya Shah",
+    "text": "Customer asking for shipping ETA on order 8806. Where is the package?",
+    "ts": "1788441140.020000"
+  },
+  {
+    "type": "message",
+    "user": "U06",
+    "user_name": "Riley Cho",
+    "text": "I am out Friday. Cover is Priya.",
+    "ts": "1788422427.087000"
+  }
+]

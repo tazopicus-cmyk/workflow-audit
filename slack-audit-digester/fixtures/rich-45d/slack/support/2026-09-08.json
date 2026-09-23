@@ -1,0 +1,23 @@
+[
+  {
+    "type": "message",
+    "user": "U02",
+    "user_name": "Jordan Blake",
+    "text": "Customer asked again: how do I request a refund on order 4405?",
+    "ts": "1788865506.006000"
+  },
+  {
+    "type": "message",
+    "user": "U06",
+    "user_name": "Riley Cho",
+    "text": "Checking in again. Status on the replacement for ticket 882?",
+    "ts": "1788863088.048000"
+  },
+  {
+    "type": "message",
+    "user": "U02",
+    "user_name": "Jordan Blake",
+    "text": "Standup: yesterday I closed 6 tickets. Today I will work the VIP queue. No blockers.",
+    "ts": "1788858305.065000"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "type": "message",
+    "user": "U05",
+    "user_name": "Alex Nguyen",
+    "text": "How do I reset a password when the customer has no access to the old email?",
+    "ts": "1788015870.030000"
+  },
+  {
+    "type": "message",
+    "user": "U02",
+    "user_name": "Jordan Blake",
+    "text": "Standup: yesterday I closed 6 tickets. Today I will work the VIP queue. No blockers.",
+    "ts": "1787994312.072000"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "user_name": "Priya Shah",
+    "text": "Standup: yesterday I finished the queue sweep. Today I will draft macros. No blocker besides the lodge order.",
+    "ts": "1787994493.073000"
+  }
+]

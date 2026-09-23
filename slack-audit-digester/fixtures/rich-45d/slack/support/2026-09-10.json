@@ -1,0 +1,23 @@
+[
+  {
+    "type": "message",
+    "user": "U03",
+    "user_name": "Priya Shah",
+    "text": "Where is order 8804? Delivery was due yesterday and tracking did not move.",
+    "ts": "1789045698.018000"
+  },
+  {
+    "type": "message",
+    "user": "U02",
+    "user_name": "Jordan Blake",
+    "text": "Standup: yesterday I closed 5 tickets. Today I will work the VIP queue. No blockers.",
+    "ts": "1789031103.063000"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "user_name": "Priya Shah",
+    "text": "Standup: yesterday I finished the queue sweep. Today I will draft macros. No blocker besides the lodge order.",
+    "ts": "1789031284.064000"
+  }
+]

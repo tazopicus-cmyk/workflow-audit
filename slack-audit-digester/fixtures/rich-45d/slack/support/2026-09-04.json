@@ -1,0 +1,23 @@
+[
+  {
+    "type": "message",
+    "user": "U02",
+    "user_name": "Jordan Blake",
+    "text": "Refund question in the queue. What is the refund window for order 4406?",
+    "ts": "1788519967.007000"
+  },
+  {
+    "type": "message",
+    "user": "U06",
+    "user_name": "Riley Cho",
+    "text": "Any update on ticket 1204? Sales is still waiting on a ship date.",
+    "ts": "1788517549.049000"
+  },
+  {
+    "type": "message",
+    "user": "U02",
+    "user_name": "Jordan Blake",
+    "text": "Standup: yesterday I closed 8 tickets. Today I will work the VIP queue. No blockers.",
+    "ts": "1788512708.068000"
+  }
+]
