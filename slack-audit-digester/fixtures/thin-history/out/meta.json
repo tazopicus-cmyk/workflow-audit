@@ -1,0 +1,38 @@
+{
+  "path": "insufficient",
+  "window_days": 90,
+  "lookback_days_requested": 45,
+  "newest_message_ts": 1789988641.001,
+  "newest_message_at": "2026-09-21T11:04:01Z",
+  "window_start_ts": 1782212641.001,
+  "window_start_at": "2026-06-23T11:04:01Z",
+  "window_end_ts": 1789988641.001,
+  "window_end_at": "2026-09-21T11:04:01Z",
+  "human_message_count": 13,
+  "distinct_active_days": 10,
+  "channel_counts": {
+    "ops": 13
+  },
+  "opportunity_count": 0,
+  "opportunities": [],
+  "seats": [
+    "Too early to name specialist seats from this window. Capture the traffic below first."
+  ],
+  "extended_from_thin": true,
+  "llm_enrich": false,
+  "sku": "slack-opportunity-audit",
+  "thresholds": {
+    "min_human_messages": 40,
+    "min_active_days": 10,
+    "default_lookback_days": 45,
+    "max_lookback_days": 90
+  },
+  "h2_sections": [
+    "Scope",
+    "What we looked for",
+    "Top opportunities (ranked)",
+    "Suggested specialist seats",
+    "What not to automate yet",
+    "Optional next step"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "path": "rich",
+  "window_days": 45,
+  "lookback_days_requested": 45,
+  "newest_message_ts": 1790093013.033,
+  "newest_message_at": "2026-09-22T16:03:33Z",
+  "window_start_ts": 1786205013.033,
+  "window_start_at": "2026-08-08T16:03:33Z",
+  "window_end_ts": 1790093013.033,
+  "window_end_at": "2026-09-22T16:03:33Z",
+  "human_message_count": 87,
+  "distinct_active_days": 43,
+  "channel_counts": {
+    "support-escalations": 12,
+    "support": 75
+  },
+  "opportunity_count": 5,
+  "opportunities": [
+    "Standup-style updates with no decision attached",
+    "Repeat refund questions that a FAQ drafter can handle",
+    "Repeat tracking questions that a FAQ drafter can handle",
+    "Bouncing handoffs that stall before an owner is clear",
+    "Status pings that ask the same ticket question again"
+  ],
+  "seats": [
+    "Status Digest",
+    "FAQ Drafter",
+    "Handoff Coordinator",
+    "Ticket Tracker",
+    "Escalation Owner",
+    "Knowledge Curator"
+  ],
+  "extended_from_thin": false,
+  "llm_enrich": false,
+  "sku": "slack-opportunity-audit",
+  "thresholds": {
+    "min_human_messages": 40,
+    "min_active_days": 10,
+    "default_lookback_days": 45,
+    "max_lookback_days": 90
+  },
+  "h2_sections": [
+    "Scope",
+    "What we looked for",
+    "Top opportunities (ranked)",
+    "Suggested specialist seats",
+    "What not to automate yet",
+    "Optional next step"
+  ]
+}

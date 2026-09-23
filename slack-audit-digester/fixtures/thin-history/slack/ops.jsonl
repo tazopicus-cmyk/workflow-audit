@@ -1,0 +1,14 @@
+{"type": "message", "user": "U01", "user_name": "Maya Chen", "text": "Posted the onboarding checklist.", "ts": "1789988401.001000", "channel": "ops"}
+{"type": "message", "user": "U02", "user_name": "Jordan Blake", "text": "Got it.", "ts": "1789988641.001000", "channel": "ops"}
+{"type": "message", "user": "U01", "user_name": "Maya Chen", "text": "Client sent brand colors.", "ts": "1789830001.001000", "channel": "ops"}
+{"type": "message", "user": "U03", "user_name": "Priya Shah", "text": "I will add them to the folder later.", "ts": "1789747201.001000", "channel": "ops"}
+{"type": "message", "user": "U01", "user_name": "Maya Chen", "text": "Kickoff is Thursday.", "ts": "1789380001.001000", "channel": "ops"}
+{"type": "message", "user": "U02", "user_name": "Jordan Blake", "text": "I can join.", "ts": "1789380361.001000", "channel": "ops"}
+{"type": "message", "user": "U01", "user_name": "Maya Chen", "text": "Invoice went out.", "ts": "1789030801.001000", "channel": "ops"}
+{"type": "message", "user": "U03", "user_name": "Priya Shah", "text": "Thanks.", "ts": "1788526801.001000", "channel": "ops"}
+{"type": "message", "user": "U02", "user_name": "Jordan Blake", "text": "Out tomorrow.", "ts": "1788195601.001000", "channel": "ops"}
+{"type": "message", "user": "U01", "user_name": "Maya Chen", "text": "Covering.", "ts": "1788195781.001000", "channel": "ops"}
+{"type": "message", "user": "U01", "user_name": "Maya Chen", "text": "Channel created. We will try to keep client notes here.", "ts": "1785585601.001000", "channel": "ops"}
+{"type": "message", "user": "U02", "user_name": "Jordan Blake", "text": "Ok.", "ts": "1784808121.001000", "channel": "ops"}
+{"type": "message", "user": "U01", "user_name": "Maya Chen", "text": "Parking this until the first paid job lands.", "ts": "1784037601.001000", "channel": "ops"}
+{"type": "message", "subtype": "channel_join", "user": "U03", "text": "<@U03> has joined the channel", "ts": "1784037661.001000", "channel": "ops"}
