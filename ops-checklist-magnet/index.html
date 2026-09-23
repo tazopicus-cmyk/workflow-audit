@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Free Ops Automation Checklist · Tin Dog Digital</title>
+  <meta name="description" content="TRACE one messy workflow in about five minutes. Spot repetitive Slack, email, or status work worth handing to bots before you buy anything." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="https://tindogdigital.tech/">Tin Dog Digital</a>
+    <nav>
+      <a href="https://tindogdigital.tech/role-map/">Role map</a>
+      <a href="https://tindogdigital.tech/slack-audit/">Slack Opportunity Audit</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <p class="eyebrow">Free ops checklist</p>
+      <h1>TRACE the workflow first. Automate second.</h1>
+      <p class="lede">
+        In about five minutes, spot repetitive Slack, email, or status work worth
+        handing to bots, and dollar the friction before you buy anything.
+      </p>
+      <p id="form-error" class="alert-error" hidden></p>
+      <form class="capture-form" action="capture.php" method="post">
+        <div class="hp" aria-hidden="true">
+          <label>Website
+            <input type="text" name="website" tabindex="-1" autocomplete="off" />
+          </label>
+        </div>
+        <label>
+          First name <span class="optional">(optional)</span>
+          <input type="text" name="name" autocomplete="given-name" />
+        </label>
+        <label>
+          Email
+          <input type="email" name="email" required autocomplete="email" />
+        </label>
+        <button class="btn primary" type="submit">Email me the checklist</button>
+        <p class="fine">Sent from ana@tindogdigital.tech. About five minutes to walk TRACE once.</p>
+      </form>
+    </section>
+
+    <section class="card">
+      <h2>What you get</h2>
+      <ul class="trace-list">
+        <li>
+          <strong>T. Track</strong>
+          Pick one messy workflow that moves end to end. Name when it starts, when done means done, and which systems it touches.
+        </li>
+        <li>
+          <strong>R. Record</strong>
+          List every human touch between start and done (who, what, channel, minutes). Include checking, nudging, and waiting on a reply.
+        </li>
+        <li>
+          <strong>A. Audit</strong>
+          Mark where information is copied between systems by hand: paste jobs, re-keying, and status chasing that could be a rule.
+        </li>
+        <li>
+          <strong>C. Cost</strong>
+          Dollar the friction (minutes per run, runs per week, loaded rate). Example: 15 min x 40/week x $100/hr is about $52,000/year.
+        </li>
+        <li>
+          <strong>E. Eliminate</strong>
+          Pick the most expensive repetitive loop for a bot first. Prove that loop, then TRACE the next one.
+        </li>
+      </ul>
+    </section>
+
+    <section class="card cta-end">
+      <h2>Optional next steps</h2>
+      <p>You do not need either to use this checklist.</p>
+      <p class="cta-row">
+        <a class="btn primary" href="https://tindogdigital.tech/role-map/">Role map (free)</a>
+        <a class="btn secondary" href="https://tindogdigital.tech/slack-audit/">Slack Opportunity Audit ($299)</a>
+      </p>
+      <p class="fine">Role map: see which seats fit your desk. Slack Opportunity Audit: we dig one messy Slack area and send a PDF of where bots should take over.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Tin Dog Digital · <a href="mailto:ana@tindogdigital.tech">ana@tindogdigital.tech</a> · <a href="https://tindogdigital.tech/">tindogdigital.tech</a></p>
+  </footer>
+  <script>
+    (function () {
+      var params = new URLSearchParams(window.location.search);
+      var code = params.get("error");
+      if (!code) return;
+      var el = document.getElementById("form-error");
+      var messages = {
+        email: "Please enter a valid email.",
+        send: "We could not send the checklist just now. Try again, or email ana@tindogdigital.tech.",
+        config: "Delivery is not configured on this host yet. Email ana@tindogdigital.tech and we will send the checklist."
+      };
+      el.textContent = messages[code] || messages.send;
+      el.hidden = false;
+    })();
+  </script>
+</body>
+</html>

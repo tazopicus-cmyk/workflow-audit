@@ -33,6 +33,11 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
+# HostGator ops-checklist magnet (never commit the live Resend key or captured leads)
+ops-checklist-magnet/config.php
+ops-checklist-magnet/inbox/*.json
+ops-checklist-magnet/inbox/*.jsonl
+
 # vercel
 .vercel
 
