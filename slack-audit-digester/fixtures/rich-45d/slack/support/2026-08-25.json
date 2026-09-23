@@ -1,0 +1,23 @@
+[
+  {
+    "type": "message",
+    "user": "U02",
+    "user_name": "Jordan Blake",
+    "text": "Repeat: how do I request a refund, and where is the form? Order 4409.",
+    "ts": "1787656150.010000"
+  },
+  {
+    "type": "message",
+    "user": "U02",
+    "user_name": "Jordan Blake",
+    "text": "Standup: yesterday I closed 8 tickets. Today I will work the VIP queue. No blockers.",
+    "ts": "1787648715.075000"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "user_name": "Priya Shah",
+    "text": "Standup: yesterday I finished the queue sweep. Today I will draft macros. No blocker besides the lodge order.",
+    "ts": "1787648896.076000"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "message",
+    "user": "U06",
+    "user_name": "Riley Cho",
+    "text": "Can someone take this? I am looping in Maya for the return exception.",
+    "ts": "1787847040.040000"
+  },
+  {
+    "type": "message",
+    "user": "U02",
+    "user_name": "Jordan Blake",
+    "text": "Standup: yesterday I closed 7 tickets. Today I will work the VIP queue. No blockers.",
+    "ts": "1787821514.074000"
+  }
+]
