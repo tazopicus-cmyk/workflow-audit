@@ -1,0 +1,19 @@
+[project]
+name = "slack-audit-digest"
+version = "0.1.0"
+description = "Tin Dog Digital Slack Opportunity Audit digester (F2). Offline CLI: intake + Slack export → draft markdown + PDF pack."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "fpdf2>=2.7.0",
+]
+
+[project.scripts]
+slack-audit-digest = "slack_audit_digest.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
