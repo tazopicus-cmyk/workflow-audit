@@ -1,0 +1,23 @@
+[
+  {
+    "type": "message",
+    "user": "U05",
+    "user_name": "Alex Nguyen",
+    "text": "Customer cannot login. Password reset email never arrives. How do I reset a password here?",
+    "ts": "1789743687.027000"
+  },
+  {
+    "type": "message",
+    "user": "U02",
+    "user_name": "Jordan Blake",
+    "text": "Standup: yesterday I closed 6 tickets. Today I will work the VIP queue. No blockers.",
+    "ts": "1789722357.057000"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "user_name": "Priya Shah",
+    "text": "Standup: yesterday I finished the queue sweep. Today I will draft macros. No blocker besides the lodge order.",
+    "ts": "1789722538.058000"
+  }
+]

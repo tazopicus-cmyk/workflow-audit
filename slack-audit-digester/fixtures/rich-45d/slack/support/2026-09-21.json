@@ -1,0 +1,32 @@
+[
+  {
+    "type": "message",
+    "user": "U03",
+    "user_name": "Priya Shah",
+    "text": "Where is this order? Tracking for 8800 is not updating.",
+    "ts": "1789995614.014000"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "user_name": "Priya Shah",
+    "text": "Handing this off to escalations. Can someone grab the wholesale quote?",
+    "ts": "1790006674.034000"
+  },
+  {
+    "type": "message",
+    "user": "U01",
+    "user_name": "Maya Chen",
+    "text": "Thanks Jordan. I saw the lodge note.",
+    "ts": "1790013625.085000"
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "bot_id": "B01",
+    "user": "U00",
+    "user_name": "pagerbot",
+    "text": "Nightly ticket dump: 42 open.",
+    "ts": "1789974001.001000"
+  }
+]

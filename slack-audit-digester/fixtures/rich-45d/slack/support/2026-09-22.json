@@ -1,0 +1,44 @@
+[
+  {
+    "type": "message",
+    "user": "U02",
+    "user_name": "Jordan Blake",
+    "text": "Customer asked again: how do I request a refund on order 4400?",
+    "ts": "1790074801.001000"
+  },
+  {
+    "type": "message",
+    "user": "U05",
+    "user_name": "Alex Nguyen",
+    "text": "How do I reset a password for a wholesale login? Account locked out again.",
+    "ts": "1790089226.026000"
+  },
+  {
+    "type": "message",
+    "user": "U02",
+    "user_name": "Jordan Blake",
+    "text": "Can you take this VIP thread <@U03>? They are asking for a make-good.",
+    "ts": "1790093013.033000"
+  },
+  {
+    "type": "message",
+    "user": "U06",
+    "user_name": "Riley Cho",
+    "text": "Any update on ticket 882? Customer is still waiting.",
+    "ts": "1790072444.044000"
+  },
+  {
+    "type": "message",
+    "user": "U02",
+    "user_name": "Jordan Blake",
+    "text": "Standup: yesterday I closed 4 tickets. Today I will work the VIP queue. No blockers.",
+    "ts": "1790067954.054000"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "user_name": "Priya Shah",
+    "text": "Standup: yesterday I finished the queue sweep. Today I will draft macros. No blocker besides the lodge order.",
+    "ts": "1790068135.055000"
+  }
+]

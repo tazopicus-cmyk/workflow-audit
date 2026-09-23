@@ -1,0 +1,16 @@
+[
+  {
+    "type": "message",
+    "user": "U03",
+    "user_name": "Priya Shah",
+    "text": "How do we quote shipping ETA when tracking for 8803 is blank?",
+    "ts": "1789304777.017000"
+  },
+  {
+    "type": "message",
+    "user": "U06",
+    "user_name": "Riley Cho",
+    "text": "Bump this. Any update on ticket 773 for the lodge order?",
+    "ts": "1789295027.047000"
+  }
+]

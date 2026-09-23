@@ -1,0 +1,23 @@
+[
+  {
+    "type": "message",
+    "user": "U03",
+    "user_name": "Priya Shah",
+    "text": "Tracking number for order 8802 looks stale. Where is this order supposed to be?",
+    "ts": "1789563856.016000"
+  },
+  {
+    "type": "message",
+    "user": "U06",
+    "user_name": "Riley Cho",
+    "text": "Following up. Status on order 4419? Still waiting from Friday.",
+    "ts": "1789554166.046000"
+  },
+  {
+    "type": "message",
+    "user": "U02",
+    "user_name": "Jordan Blake",
+    "text": "Standup: yesterday I closed 7 tickets. Today I will work the VIP queue. No blockers.",
+    "ts": "1789549559.059000"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "message",
+    "user": "U05",
+    "user_name": "Alex Nguyen",
+    "text": "Passing this to <@U04>. Can you take the damaged-goods case?",
+    "ts": "1789488396.036000"
+  },
+  {
+    "type": "message",
+    "user": "U05",
+    "user_name": "Alex Nguyen",
+    "text": "Lunch cover from 1 to 2.",
+    "ts": "1789473626.086000"
+  }
+]

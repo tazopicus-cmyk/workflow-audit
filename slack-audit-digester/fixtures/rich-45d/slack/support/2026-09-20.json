@@ -1,0 +1,31 @@
+[
+  {
+    "type": "message",
+    "user": "U02",
+    "user_name": "Jordan Blake",
+    "text": "Refund question in the queue. What is the refund window for order 4401?",
+    "ts": "1789902062.002000"
+  },
+  {
+    "type": "message",
+    "user": "U06",
+    "user_name": "Riley Cho",
+    "text": "Checking in on the wholesale quote. Any update on ticket 910?",
+    "ts": "1789899705.045000"
+  },
+  {
+    "type": "message",
+    "user": "U02",
+    "user_name": "Jordan Blake",
+    "text": "Standup: yesterday I closed 5 tickets. Today I will work the VIP queue. No blockers.",
+    "ts": "1789895156.056000"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "user": "U06",
+    "user_name": "Riley Cho",
+    "text": "<@U06> has joined the channel",
+    "ts": "1789894801.001000"
+  }
+]
