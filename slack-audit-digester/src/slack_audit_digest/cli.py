@@ -39,7 +39,7 @@ def main(argv: list[str] | None = None) -> int:
     run_p = sub.add_parser("run", help="Parse intake + slack export, write draft, PDF, meta.")
     run_p.add_argument("--job", required=True, help="Job directory with intake.json and slack/")
     run_p.add_argument("--llm", action="store_true", help="Optional wording enrich (needs OPENAI_API_KEY)")
-    run_p.add_argument("--out", default=None, help="Output directory (default: \u003cjob\u003e/out)")
+    run_p.add_argument("--out", default=None, help="Output directory (default: <job>/out)")
 
     pdf_p = sub.add_parser("pdf", help="Rebuild audit-pack.pdf from opportunity-draft.md")
     pdf_p.add_argument("--job", required=True)
